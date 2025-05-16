@@ -6,7 +6,7 @@ This repository documents my learnings of GPU programming using Rust, the CubeCL
 
 | Kernel     | Description                        |
 | ---------- | ---------------------------------- |
-| Flip Image | Horizontal and vertical flipping   |
+| Flip Image | Horizontal flipping                |
 | Blur Image | N×N box blur (averaging neighbors) |
 
 ## 🛠 How to Run
