@@ -13,7 +13,9 @@ This repository documents my learnings of GPU programming using Rust, the CubeCL
 
 Each kernel can be run individually as a cargo example:
 
+```bash
 cargo run --example flip_image
 cargo run --example blur_image
+```
 
 Data files live in examples/data/
